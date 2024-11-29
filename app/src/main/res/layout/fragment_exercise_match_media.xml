@@ -1,0 +1,85 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Contenedor para la imagen, video o cualquier medio -->
+    <FrameLayout
+        android:id="@+id/media_container"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#E0E0E0"
+        android:layout_marginBottom="16dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/cafe"/>
+
+    </FrameLayout>
+
+    <!-- Grid para opciones -->
+    <GridLayout
+        android:id="@+id/options_grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="2"
+        android:layout_marginBottom="16dp">
+
+        <Button
+            android:id="@+id/option1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:text="Opción 1" />
+
+        <Button
+            android:id="@+id/option2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:text="Opción 2" />
+
+        <Button
+            android:id="@+id/option3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:text="Opción 3" />
+
+        <Button
+            android:id="@+id/option4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:text="Opción 4" />
+    </GridLayout>
+
+    <!-- Mensaje de resultado -->
+    <TextView
+        android:id="@+id/result_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:gravity="center"
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Botón para comprobar/continuar -->
+    <Button
+        android:id="@+id/verify_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Comprobar" />
+</LinearLayout>

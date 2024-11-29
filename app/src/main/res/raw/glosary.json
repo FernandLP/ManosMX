@@ -1,0 +1,172 @@
+[
+  {
+    "termino": "Blanco",
+    "unidad": 1,
+    "leccion": "Colores"
+  },
+  {
+    "termino": "Verde",
+    "unidad": 1,
+    "leccion": "Colores"
+  },
+  {
+    "termino": "Negro",
+    "unidad": 1,
+    "leccion": "Colores"
+  },
+  {
+    "termino": "Amarillo",
+    "unidad": 1,
+    "leccion": "Colores"
+  },
+  {
+    "termino": "Mochila",
+    "unidad": 1,
+    "leccion": "Escuela"
+  },
+  {
+    "termino": "Regla",
+    "unidad": 1,
+    "leccion": "Escuela"
+  },
+  {
+    "termino": "Cuaderno",
+    "unidad": 1,
+    "leccion": "Escuela"
+  },
+  {
+    "termino": "Lápiz",
+    "unidad": 1,
+    "leccion": "Escuela"
+  },
+  {
+    "termino": "Buenos días",
+    "unidad": 1,
+    "leccion": "Saludos"
+  },
+  {
+    "termino": "Buenas tardes",
+    "unidad": 1,
+    "leccion": "Saludos"
+  },
+  {
+    "termino": "Buenas noches",
+    "unidad": 1,
+    "leccion": "Saludos"
+  },
+  {
+    "termino": "Bolsillo",
+    "unidad": 2,
+    "leccion": "Ropa"
+  },
+  {
+    "termino": "Botas",
+    "unidad": 2,
+    "leccion": "Ropa"
+  },
+  {
+    "termino": "Camisa",
+    "unidad": 2,
+    "leccion": "Ropa"
+  },
+  {
+    "termino": "Bufanda",
+    "unidad": 2,
+    "leccion": "Ropa"
+  },
+  {
+    "termino": "Sombrero",
+    "unidad": 2,
+    "leccion": "Ropa"
+  },
+  {
+    "termino": "Guantes",
+    "unidad": 2,
+    "leccion": "Ropa"
+  },
+  {
+    "termino": "Padre",
+    "unidad": 2,
+    "leccion": "Familia"
+  },
+  {
+    "termino": "Madre",
+    "unidad": 2,
+    "leccion": "Familia"
+  },
+  {
+    "termino": "Hermano",
+    "unidad": 2,
+    "leccion": "Familia"
+  },
+  {
+    "termino": "Hermana",
+    "unidad": 2,
+    "leccion": "Familia"
+  },
+  {
+    "termino": "Abuelo",
+    "unidad": 2,
+    "leccion": "Familia"
+  },
+  {
+    "termino": "Abuela",
+    "unidad": 2,
+    "leccion": "Familia"
+  },
+  {
+    "termino": "¿Cómo estás?",
+    "unidad": 3,
+    "leccion": "Preguntas frecuentes"
+  },
+  {
+    "termino": "¿Cómo te llamas?",
+    "unidad": 3,
+    "leccion": "Preguntas frecuentes"
+  },
+  {
+    "termino": "¿Qué día es hoy?",
+    "unidad": 3,
+    "leccion": "Preguntas frecuentes"
+  },
+  {
+    "termino": "¿Cuánto cuesta?",
+    "unidad": 3,
+    "leccion": "Preguntas frecuentes"
+  },
+  {
+    "termino": "¿Qué hora es?",
+    "unidad": 3,
+    "leccion": "Preguntas frecuentes"
+  },
+  {
+    "termino": "¿Puedo ayudarte?",
+    "unidad": 3,
+    "leccion": "Frases útiles"
+  },
+  {
+    "termino": "¿Dónde está el baño?",
+    "unidad": 3,
+    "leccion": "Frases útiles"
+  },
+  {
+    "termino": "Disculpa, ¿me puedes repetir eso?",
+    "unidad": 3,
+    "leccion": "Frases útiles"
+  },
+  {
+    "termino": "Gracias",
+    "unidad": 3,
+    "leccion": "Frases útiles"
+  },
+  {
+    "termino": "De nada",
+    "unidad": 3,
+    "leccion": "Frases útiles"
+  },
+  {
+    "termino": "Lo siento",
+    "unidad": 3,
+    "leccion": "Frases útiles"
+  }
+]

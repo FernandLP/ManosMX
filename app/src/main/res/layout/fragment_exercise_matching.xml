@@ -1,0 +1,55 @@
+<!-- res/layout/fragment_exercise_matching.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Título -->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Relaciona las se;ales con su significado"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <!-- Contenedor para los elementos de la izquierda -->
+        <LinearLayout
+            android:id="@+id/leftContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_marginBottom="16dp">
+            <!-- Aquí se llenarán los elementos dinámicamente -->
+        </LinearLayout>
+
+        <!-- Contenedor para los elementos de la derecha -->
+        <LinearLayout
+            android:id="@+id/rightContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_marginBottom="16dp">
+            <!-- Aquí se llenarán los elementos dinámicamente -->
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Botón Continuar -->
+    <Button
+        android:id="@+id/continueButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Conrinuar"
+        android:enabled="false"
+        android:layout_gravity="center" />
+
+</LinearLayout>

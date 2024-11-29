@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores para Modo Claro -->
+    <color name="background_light">#ECF0F1</color> <!-- Fondo blanco gris claro -->
+    <color name="on_light_background">#FFFFFF</color> <!-- Boton sobre blanco gris claro -->
+    <color name="primary_light">#4A90E2</color> <!-- Azul claro -->
+    <color name="secondary_light">#7AC86F</color> <!-- Verde pastel -->
+    <color name="accent_light">#F39C12</color> <!-- Naranja -->
+    <color name="text_primary_light">#2C3E50</color> <!-- Texto principal (gris oscuro) -->
+    <color name="error_light">#E74C3C</color> <!-- Rojo para errores -->
+    <color name="success_light">#27AE60</color> <!-- Verde para exito -->
+
+    <!-- Colores para Modo Oscuro -->
+    <color name="background_dark">#2C3E50</color> <!-- Fondo gris oscuro -->
+    <color name="on_dark_background">#415B76</color> <!-- Boton sobre gris oscuro -->
+    <color name="primary_dark">#4A90E2</color> <!-- Azul suave oscuro -->
+    <color name="secondary_dark">#7AC86F</color> <!-- Verde pastel oscuro -->
+    <color name="accent_dark">#E67E22</color> <!-- Naranja atenuado -->
+    <color name="text_primary_dark">#ECF0F1</color> <!-- Texto blanco suave -->
+    <color name="error_dark">#C0392B</color> <!-- Rojo atenuado para errores -->
+    <color name="success_dark">#229954</color> <!-- Verde oscuro para éxito -->
+</resources>
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<resources>-->
+    <!--    <color name="purple_200">#FFBB86FC</color>-->
+    <!--    <color name="purple_500">#FF6200EE</color>-->
+    <!--    <color name="purple_700">#FF3700B3</color>-->
+    <!--    <color name="teal_200">#FF03DAC5</color>-->
+    <!--    <color name="teal_700">#FF018786</color>-->
+    <!--    <color name="black">#FF000000</color>-->
+    <!--    <color name="white">#FFFFFFFF</color>-->
+    <!--</resources>-->

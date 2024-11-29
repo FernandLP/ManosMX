@@ -1,0 +1,82 @@
+[
+  {
+    "unidad": 1,
+    "titulo": "Entorno escolar",
+    "lecciones": [
+      {
+        "id": 1,
+        "grupo": "Colores",
+        "descripcion": "Aprende a identificar y expresar los colores básicos en lenguaje de señas.",
+        "campo_semantico": ["Blanco", "Verde", "Negro", "Amarillo"]
+      },
+      {
+        "id": 2,
+        "grupo": "Escuela",
+        "descripcion": "Conoce los objetos más comunes que se encuentran en un entorno escolar.",
+        "campo_semantico": ["Mochila", "Regla", "Cuaderno", "Lápiz"]
+      },
+      {
+        "id": 3,
+        "grupo": "Saludos",
+        "descripcion": "Aprende a saludar en diferentes momentos del día usando lenguaje de señas.",
+        "campo_semantico": ["Buenos días", "Buenas tardes", "Buenas noches"]
+      }
+    ]
+  },
+  {
+    "unidad": 2,
+    "titulo": "Entorno familiar",
+    "lecciones": [
+      {
+        "id": 4,
+        "grupo": "Ropa",
+        "descripcion": "Aprende a identificar diferentes prendas y accesorios cotidianos.",
+        "campo_semantico": ["Bolsillo", "Botas", "Camisa", "Bufanda", "Sombrero", "Guantes"]
+      },
+      {
+        "id": 5,
+        "grupo": "Familia",
+        "descripcion": "Conoce los términos básicos para referirte a los miembros de la familia.",
+        "campo_semantico": ["Padre", "Madre", "Hermano", "Hermana", "Abuelo", "Abuela"]
+      }
+    ]
+  },
+  {
+    "unidad": 3,
+    "titulo": "Entorno social",
+    "lecciones": [
+      {
+        "id": 6,
+        "grupo": "Saludos",
+        "descripcion": "Revisión de los saludos básicos aprendidos en la Unidad 1.",
+        "nota": "Se enlaza a la parte de la Unidad 1"
+      },
+      {
+        "id": 7,
+        "grupo": "Preguntas frecuentes",
+        "descripcion": "Aprende a realizar y entender preguntas comunes en situaciones sociales.",
+        "campo_semantico": [
+          "¿Cómo estás?",
+          "¿Cómo te llamas?",
+          "¿Qué día es hoy?",
+          "¿Cuánto cuesta?",
+          "¿Qué hora es?"
+        ]
+      },
+      {
+        "id": 8,
+        "grupo": "Frases útiles",
+        "descripcion": "Descubre frases esenciales para interactuar en situaciones sociales.",
+        "campo_semantico": [
+          "¿Puedo ayudarte?",
+          "¿Dónde está el baño?",
+          "Disculpa, ¿me puedes repetir eso?",
+          "Gracias",
+          "De nada",
+          "Lo siento"
+        ]
+      }
+    ]
+  }
+]
+

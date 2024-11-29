@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:ignore="ExtraText">
+    <corners android:radius="40dp" /> <!-- Ajusta el radio según sea necesario -->
+    <solid android:color="@android:color/white" /> <!-- Cambia el color de fondo según sea necesario -->
+    <stroke
+        android:width="2dp"
+        android:color="#B9B9B9" />
+</shape>
